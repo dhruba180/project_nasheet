@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Team-Nasheet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+213be5eff34ee9a9bf34526d870ea6416854698a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Team-Nasheet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Team-Nasheet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
